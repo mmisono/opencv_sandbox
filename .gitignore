@@ -1,0 +1,6 @@
+document/
+data/
+
+*.swp
+*.swo
+*.pyc
